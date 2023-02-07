@@ -1,4 +1,4 @@
-# Primeiros Dashboards
+<h1 align="center"> Primeiros Dashboards </h1>
 Primeiros Dashboards desenvolvidos no curso Microsoft Power BI para Business Intelligence e Data Science da DSA (Data Science Academy).
 
 ## 1 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
