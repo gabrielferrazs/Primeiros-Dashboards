@@ -11,3 +11,4 @@ Primeiros Dashboards desenvolvidos no curso Microsoft Power BI para Business Int
 
 
 ## 4 - Comercial
+![alt text](https://github.com/gabrielferrazs/Primeiros-Dashboards/blob/main/Comercial/Faixas_Comercial.png)
