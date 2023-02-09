@@ -3,7 +3,8 @@ Primeiros Dashboards desenvolvidos no curso Microsoft Power BI para Business Int
 
 
 ## 1 - Vendas
-![alt text](https://github.com/gabrielferrazs/Primeiros-Dashboards/blob/main/Vendas/Dashboard%20Vendas.png)
+![alt text](https://github.com/gabrielferrazs/Primeiros-Dashboards/blob/main/Vendas/vendas.png)
+![alt text](https://github.com/gabrielferrazs/Primeiros-Dashboards/blob/main/Vendas/envio.png)
 
 ## 2 - Marketing
 ![alt text](https://github.com/gabrielferrazs/Primeiros-Dashboards/blob/main/Marketing/Makerting_cliente.png)
